@@ -1,7 +1,4 @@
-
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AthleteReviewApp", "AthleteReviewApp\AthleteReviewApp.csproj", "{E0B1D881-43A3-4343-9EF0-402B3607377A}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AthleteReviewApp.Tests", "AthleteReviewApp.Tests\AthleteReviewApp.Tests.csproj", "{76B88D96-55CC-4295-B2B3-9A64C65D7E02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
